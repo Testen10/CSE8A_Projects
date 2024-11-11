@@ -1,0 +1,33 @@
+Average of anxiety_level: 11.064
+Maximum of anxiety_level: 21
+--------------------
+Total number of students: 1100
+Number of student who have higher anxiety level than the average: 534
+--------------------
+Student with high anxiety level also showed high level in these factors:
+1. headache (145)
+2. bullying (141)
+3. noise_level (129)
+4. study_load (128)
+5. extracurricular_activities (127)
+
+Student with high anxiety level showed low level in these positive factors:
+1. teacher_student_relationship (149)
+2. safety (142)
+3. academic_performance (135)
+4. living_conditions (132)
+5. sleep_quality (130)
+--------------------
+Student with low anxiety level also showed high level in these positive factors:
+1. social_support (143)
+2. self_esteem (129)
+3. living_conditions (115)
+4. basic_needs (115)
+5. sleep_quality (114)
+
+Student with low anxiety level showed low level in these negative factors:
+1. blood_pressure (143)
+2. depression (138)
+3. peer_pressure (125)
+4. headache (123)
+5. study_load (117)
