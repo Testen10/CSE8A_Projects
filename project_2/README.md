@@ -25,5 +25,5 @@ version: 3.9.7
 <p> You don't need to download additional files other than the uploaded files to play
 
 ## Result
-![result](<project_2/result.png>)
-![result_explanation](<project_2/result_Explanation.png>)
+![result](<result.png>)
+![result_explanation](<result_Explanation.png>)
